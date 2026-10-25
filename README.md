@@ -15,14 +15,6 @@ Full-stack engineer at Veridraft. I lead the Android app at Pillars, a prayer an
 | [Cost Rental Watch](https://costrentalwatch.ie) | Email alerts when an affordable housing scheme opens anywhere in Ireland |
 | Pro Tills | A point-of-sale app for small shops: 83,000+ orders over four years |
 
-**Sample builds**, with code you can read
-
-| Project | Live | Code |
-|---|---|---|
-| WordPress site for a research project | [wordpress-sample-site.pages.dev](https://wordpress-sample-site.pages.dev) | [repo](https://github.com/mahmoudal99/wordpress-sample-site) |
-| ExpressionEngine 7.5 content site | runs locally | [repo](https://github.com/mahmoudal99/expressionengine-sample-site) |
-| Accessible campaign microsite | [campaign-microsite-sample.pages.dev](https://campaign-microsite-sample.pages.dev) | [repo](https://github.com/mahmoudal99/campaign-microsite-sample) |
-
 TypeScript, React, Next.js, Flutter, Kotlin, Swift, PHP, PostgreSQL, Firebase, Cloudflare, AWS.
 
 More at [mahmoudalmahroum.com](https://mahmoudalmahroum.com) · [mahmoud.al808@gmail.com](mailto:mahmoud.al808@gmail.com)
